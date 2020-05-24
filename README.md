@@ -1,4 +1,5 @@
 ## BigData
+
 大数据结课作业
 
 ``` python3
@@ -6,3 +7,10 @@ MySQL数据库的地址改为本机loaclhost或者127.0.0.1，密码为自己的
 ```
 
 //test jetbrains
+$$
+ \Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
+$$
+
+$$
+\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
+$$
